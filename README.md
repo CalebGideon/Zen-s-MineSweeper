@@ -35,7 +35,7 @@ A MineSweeper clone using custom Pathing algorithms and OOP abstract architectur
     <li><b>The game will open where you can choose from three difficulty settings</b></li>
     </div>
 </div>
-
+<br>
 <div>
   <h3><b>HOW TO PLAY</b></h3>
   <div>
